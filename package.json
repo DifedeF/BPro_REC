@@ -1,0 +1,12 @@
+{
+    "name": "BPro_Registratore",
+    "description": "registratore BPRO",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows-REC.json",
+            "credentialsFile": "flows-REC_cred.json"
+        }
+    }
+}
